@@ -1,8 +1,8 @@
 
 ![Screenshot 2023-11-10 at 3 14 03 PM](https://github.com/sairamchow5555/product-app/assets/126855559/9a0ff458-8cd0-4400-81cb-6a2c40b208cb)
 ![Screenshot 2023-11-10 at 3 14 15 PM](https://github.com/sairamchow5555/product-app/assets/126855559/1d68bf6f-07d4-483f-a81f-4a475c58b22b)
-pp
-# Getting Started with Create React A
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
